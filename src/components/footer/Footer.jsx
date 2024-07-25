@@ -13,8 +13,7 @@ const Footer = () => {
           <h1 className={styles.logoText}>Bibaswan.Blog</h1>
         </div>
         <p className={styles.desc}>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        At BIBASWAN EDUCATIONAL FOUNDATION, we teach you to overcome challenges posed by competitive examinations for the State Civil Services, PSC, UPSC, School Service Commission, Banking, Rail, Staff Selection Commission, IAS, IPS so on and so forth.
         </p>
         <div className={styles.icons}>
            <Image src="/facebook.png" alt="" width={18} height={18}/>
